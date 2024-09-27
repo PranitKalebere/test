@@ -1,1 +1,13 @@
-1.0
+;aiu;
+
+[Update]
+Name = AutoDoc
+ProductVersion = 2.0.0.0
+URL = https://github.com/PranitKalebere/test/releases/download/1.0/AutoDoc2.exe
+Size = 51803481
+SHA256 = 7BD3DE6A011E73BC05261B7C4598663BB085DC4ECED03F47AB16AC8F1E42FE20
+MD5 = a4fa267150a95de2a7dac6fe3be21597
+ServerFileName = AutoDoc2.exe
+Flags = Critical
+RegistryKey = HKUD\Software\AutoDoc\AutoDoc\Version
+Version = 2.0.0.0
